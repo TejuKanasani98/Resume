@@ -1,0 +1,42 @@
+{
+	"details":{
+       "name":"Tejaswini",
+       "image":"images.jpg",
+       "phone":"1111111111",
+       "email":"aswinikanasani1998@gmail.com"
+	},
+	"education":[
+      {
+      	"course":"B.Tech(CSE)",
+        "college":"MIC college",
+        "CGPA":"9.02"
+      },
+      {
+      	"course":"Intermediate(MPC)",
+        "college":"Sri Chaitanya Junior college",
+        "CGPA":"9.5"
+      },
+      {
+       "course":"SSC",
+        "college":"Ramakrishna Mission School",
+        "CGPA":"10.0"
+    }
+],
+"skills":[
+{
+	"title":"Programming Languages",
+	"output":[
+       "C","C++","Java","Python"
+	]
+},
+{
+	"title":"Operating Systems",
+    "output":[
+         "Windows","Linux","MAC"
+    ]
+}
+],
+"career":{
+	"co":"To associate with the organisation and utilise my technical skills to the growth of our company.I am here to develop my knowledge and it is used for our organisation"
+}	
+}
